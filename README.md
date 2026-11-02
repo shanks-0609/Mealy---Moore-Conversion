@@ -41,4 +41,7 @@ python -m unittest test_simulator.py
 ## Project Structure
 - [simulator.py](file:///d:/Bennett/Sem%205/Automata/Project/simulator.py): Core conversion algorithms, transition tables, simulation engine, and interactive CLI.
 - [test_simulator.py](file:///d:/Bennett/Sem%205/Automata/Project/test_simulator.py): Automated unit test suite verifying mathematical correctness.
-- [M1_DESIGN_REPORT.md](file:///d:/Bennett/Sem%205/Automata/Project/M1_DESIGN_REPORT.md): Complete M1 milestone submission report (5 marks rubric criteria: Problem Definition, Existing Tools, Simulator Architecture, Algorithm & Manually Solved Example).
+- [M1_Simulator_Design_Report.docx](file:///d:/Bennett/Sem%205/Automata/Project/M1_Simulator_Design_Report.docx): Formal Word Document submission report mapped to the 5-mark M1 evaluation rubric (Problem Analysis, Existing Tools, System Design, Algorithms & Manual Validation).
+- [PROJECT_STUDY_GUIDE_AND_VIVA.md](file:///d:/Bennett/Sem%205/Automata/Project/PROJECT_STUDY_GUIDE_AND_VIVA.md): Comprehensive revision and viva study guide covering theory, state-splitting rationale, manually solved example, and top 15 viva Q&As.
+- [PROJECT_STUDY_GUIDE_AND_VIVA.docx](file:///d:/Bennett/Sem%205/Automata/Project/PROJECT_STUDY_GUIDE_AND_VIVA.docx): Printable Word version of the study guide.
+- [M1_DESIGN_REPORT.md](file:///d:/Bennett/Sem%205/Automata/Project/M1_DESIGN_REPORT.md): Markdown version of the design report.
